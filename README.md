@@ -38,3 +38,8 @@ Realizar el análisis sobre las variables contenidas en el dataset elegido para 
 ## Conclusión
 
 En líneas generales, los resultados obtenidos con los algoritmos aplicados fueron realmente buenos, teniendo poca diferencia entre ellos. Observando más en detalle, concluimos que el modelo de mejor desempeño fue SVC bajo GridSearch para la identificación de los mejores hiperparámetros, teniendo solamente un error en la clasificación de un pokemon de características desbalanceadas. Los modelos que siguen en mejor desempeño luego de SVC, son Random Forest y XGBoost, ambos arrojaron el mismo resultado, clasificando erróneamente 1 pokemon más en comparación con el algoritmo ganador. 
+
+## Documento ejecutivo
+
+El documento se encuentra en el repositorio https://github.com/femaldo/RinconDataScience/ en formato .PPTX para su mejor visualización.
+
