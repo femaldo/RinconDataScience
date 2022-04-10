@@ -22,10 +22,12 @@ El dataset trabajado contiene datos sobre los Pokémon registrados en todas las 
 Mediante un análisis pertinente y posterior construcción de modelos de Machine Learning se propone predecir si un pokemon es legendario o no lo es, en base a sus características más destacables y valores estadísticos.
 
 ## Fuente
-El dataset utilizado para la realización del trabajo se puede encontrar en kaggle, en el siguiente link, en su versión más actual, pokedex_(Update_04.21): https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420?select=pokedex_%28Update_05.20%29.csv. 
+El dataset utilizado para la realización del trabajo se puede encontrar en kaggle, en el siguiente link, en su versión más actual, pokedex_(Update_04.21): https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420?select=pokedex_%28Update_05.20%29.csv.
+
 La información fue recopilada de las siguientes páginas:
 https://pokemondb.net/ 
 https://www.serebii.net/ 
+
 La información ha sido recolectada y trabajada por Mario Tormo Romero
 https://www.kaggle.com/mariotormo/
 
