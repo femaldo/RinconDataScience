@@ -41,5 +41,5 @@ En líneas generales, los resultados obtenidos con los algoritmos aplicados fuer
 
 ## Documento ejecutivo
 
-El documento se encuentra en el repositorio https://github.com/femaldo/RinconDataScience/ en formato .PPTX para su mejor visualización.
+El documento se encuentra en el repositorio https://github.com/femaldo/RinconDataScience/ en formato .PPTX. Se puede descargar del repositorio o visualizar online en el siguiente enlace: https://docs.google.com/presentation/d/1k_rcWsb-P578fMzLYxysG4utQ-3WWy3J/edit?usp=sharing&ouid=118168168960383694128&rtpof=true&sd=true.
 
